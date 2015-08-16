@@ -1,27 +1,14 @@
-﻿<Properties GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Source\ModMain.cs">
+﻿<Properties GitUserInfo="UsingGIT" StartupItem="TrafficReport.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench>
     <Files>
-      <File FileName="Source\ModMain.cs" Line="36" Column="10" />
-      <File FileName="Source\AssemblyInfo.cs" Line="37" Column="1" />
+      <File FileName="Source\ModMain.cs" Line="1" Column="1" />
+      <File FileName="Source\AssemblyInfo.cs" Line="1" Column="1" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State expanded="True">
-          <Node name="TrafficReport" expanded="True" selected="True">
-            <Node name="Assets" expanded="True">
-              <Node name="Materials" expanded="True" />
-              <Node name="Source" expanded="True" />
-            </Node>
-            <Node name="Source" expanded="True" />
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="C:\Users\Lisa\Development\TrafficReport\Assets\Source\QueryToolGUIBase.cs" line="375" />
+      <Breakpoint file="C:\Users\Lisa\Development\TrafficReport\Assets\Source\QueryToolGUIBase.cs" line="375" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -6,3 +6,4 @@ build
 obj/Release/TrafficReport.csproj.FileListAbsolute.txt
 *.csproj
 TrafficReport.csproj
+TrafficReport.userprefs
